@@ -25,13 +25,13 @@
 ## DIRECTORY
 ```
 ├── WEB CRAWLING
-|   ├── Style Review
-|   └── Product 
+|   ├── STYLE REVIEW
+|   └── PRODUCT
 └──  DEEP LEARNING MODEL
-    ├── Best Style Review Classification
-    └── Recommendation of Product in Style Review
-        ├── Object Detection
-        └── Product Recommendation
+    ├── BEST STYLE REVIEW CLASSIFICATION 
+    └── RECOMMENDATION OF PRODCUT IN BEST STYLE REVIEW 
+        ├── OBJECT DETECTION
+        └── PRODUCT RECOMMENDATION
 ```
 
 ## 적용 화면 예시
