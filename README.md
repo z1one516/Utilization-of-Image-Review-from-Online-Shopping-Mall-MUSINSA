@@ -24,15 +24,16 @@ Best Style Review Classification & Recommendation of Product in Style Review
 ![image](https://github.com/ASAC-DL/MUSINSA/assets/126679650/93faea4f-0375-466b-a613-38f84913ca79)
 
 ## DIRECTORY
+''' 
 ├── WEB CRAWLING
-|   ├── Brand
-|   ├── Review
+|   ├── Style Review
 |   └── Product 
 └──  DEEP LEARNING MODEL
     ├── Best Style Review Classification
     └── Recommendation of Product in Style Review
         ├── Object Detection
         └── Product Recommendation
+'''
 
 ## 적용 화면 예시
 ![mumusinsa_28p (1)](https://github.com/ASAC-DL/MUSINSA/assets/126679650/b8e4e9c2-a36e-4f02-b457-202010681741)
