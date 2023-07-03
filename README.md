@@ -1,5 +1,5 @@
-# MUSINSA : How to Vitalize Style Review
-Best Style Review Classification & Recommendation of Product in Style Review
+# MUSINSA :스타일 후기 활성화 방안
+우수 후기 분류 및 후기 내 상품 추천 시스템
 
 ## BACKGROUND
 ### 리뷰의 중요성
