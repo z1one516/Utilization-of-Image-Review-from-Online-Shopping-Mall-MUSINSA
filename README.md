@@ -18,13 +18,12 @@ Best Style Review Classification & Recommendation of Product in Style Review
 2. 원활하지 못한 상호작용
 ![image](https://github.com/ASAC-DL/MUSINSA/assets/126679650/40a5b5bb-55bb-4307-b3f2-33c3b2c19465)
 
-## DATA
 
 ## MODEL
 ![image](https://github.com/ASAC-DL/MUSINSA/assets/126679650/93faea4f-0375-466b-a613-38f84913ca79)
 
 ## DIRECTORY
-''' 
+```
 ├── WEB CRAWLING
 |   ├── Style Review
 |   └── Product 
@@ -33,7 +32,7 @@ Best Style Review Classification & Recommendation of Product in Style Review
     └── Recommendation of Product in Style Review
         ├── Object Detection
         └── Product Recommendation
-'''
+```
 
 ## 적용 화면 예시
 ![mumusinsa_28p (1)](https://github.com/ASAC-DL/MUSINSA/assets/126679650/b8e4e9c2-a36e-4f02-b457-202010681741)
