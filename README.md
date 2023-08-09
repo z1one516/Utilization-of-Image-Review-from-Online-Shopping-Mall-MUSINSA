@@ -37,3 +37,6 @@
 ## 적용 화면 예시
 ![mumusinsa_28p (1)](https://github.com/ASAC-DL/MUSINSA/assets/126679650/b8e4e9c2-a36e-4f02-b457-202010681741)
 
+## 추천 시스템 모델 비교표
+https://www.figma.com/file/FaVuZYrONkkVobiNowFxWX/DL_project?type=whiteboard&node-id=0%3A1&t=XTJE1EfcHtNfecq8-1
+
