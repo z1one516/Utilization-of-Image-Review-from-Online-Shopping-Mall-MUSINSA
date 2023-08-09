@@ -1,1 +1,11 @@
 스타일 리뷰 분류 모델
+![image](https://github.com/ASAC-DL/MUSINSA/assets/47674433/07d08d2c-de66-46f0-a268-382b6b94cbb1)
+![image](https://github.com/ASAC-DL/MUSINSA/assets/47674433/1ac93848-4f14-4aaf-bcf3-d9067d345feb)
+![Uploading 슬라이드17.PNG…]()
+![Uploading 슬라이드18.PNG…]()
+![Uploading 슬라이드19.PNG…]()
+![Uploading 슬라이드20.PNG…]()
+![Uploading 슬라이드21.PNG…]()
+![Uploading 슬라이드22.PNG…]()
+![Uploading 슬라이드23.PNG…]()
+![슬라이드24](https://github.com/ASAC-DL/MUSINSA/assets/47674433/266cd3e0-1a44-484f-acc3-9fb1771d7238)
