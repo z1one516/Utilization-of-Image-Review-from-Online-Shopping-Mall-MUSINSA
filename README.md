@@ -41,5 +41,4 @@
 https://www.figma.com/file/FaVuZYrONkkVobiNowFxWX/DL_project?type=whiteboard&node-id=0%3A1&t=XTJE1EfcHtNfecq8-1
 
 ## 추천 시스템 적용 예시
-https://www.figma.com/proto/gMO4MGtRXPPRtkoQdIrmuM/Untitled?node-id=8-384&starting-point-node-id=1%3A2&mode=design&t=iu6hHPFeP7gnMLPs-1
-
+https://www.figma.com/proto/gMO4MGtRXPPRtkoQdIrmuM/Untitled?node-id=1-2&starting-point-node-id=1%3A2&t=ibqfLiaBuXJy1PzD-1&mode=design
