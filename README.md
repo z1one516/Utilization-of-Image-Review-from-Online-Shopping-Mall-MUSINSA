@@ -40,3 +40,6 @@
 ## 추천 시스템 모델 비교표
 https://www.figma.com/file/FaVuZYrONkkVobiNowFxWX/DL_project?type=whiteboard&node-id=0%3A1&t=XTJE1EfcHtNfecq8-1
 
+## 추천 시스템 적용 예시
+https://www.figma.com/proto/gMO4MGtRXPPRtkoQdIrmuM/Untitled?node-id=8-384&starting-point-node-id=1%3A2&mode=design&t=iu6hHPFeP7gnMLPs-1
+
