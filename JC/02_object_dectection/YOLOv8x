@@ -1,0 +1,11 @@
+#1. setup
+%pip install ultralytics  # install
+from ultralytics import YOLO, checks, hub
+checks()  # checks
+
+#2. start
+# Login with your [API key](https://hub.ultralytics.com/settings?tab=api+keys), select your YOLO model and start training
+hub.login('API_KEY')  # use your API key
+
+model = YOLO('https://hub.ultralytics.com/MODEL_ID')  # use your model URL
+model.train()  # train model
