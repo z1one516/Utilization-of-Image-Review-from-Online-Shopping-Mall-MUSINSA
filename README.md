@@ -2,7 +2,7 @@
 우수 후기 분류 및 후기 내 상품 추천 시스템
 
 ## BACKGROUND
-### 리뷰의 중요성
+### The Importance of Review
 
 ![image](https://github.com/ASAC-DL/MUSINSA/assets/126679650/03083ad7-7a6b-4bd2-b0f5-4b4cf39526c9)
 
